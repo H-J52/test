@@ -1,0 +1,11 @@
+weak02
+- linux commands: ls, ls -al, ls -a, pwd, cd , git, cd, echo
+- git commands
+git init
+git status
+git add week01.txt
+git config -global.user.email"email"
+git config -global.user.name"name"
+git commit -m "v0"
+git log
+ 
