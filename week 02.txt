@@ -8,4 +8,12 @@ git config -global.user.email"email"
 git config -global.user.name"name"
 git commit -m "v0"
 git log
+git checkout hashcode
+git checkout-
+git branch -M main
+git remote add origin https://github.com/H-J52/test.git
+git remote -v
+git push -u origin main
  
+git clone https://github.com/H-J52/test.git -> 이건 폴더 안에 복제
+git clone https://github.com/H-J52/test.git.폴더이름 -> 이건 지정한 곳에 복제
